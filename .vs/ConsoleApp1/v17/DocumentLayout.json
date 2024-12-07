@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{865F482E-C53E-4CE5-B938-31F1C707AEDD}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\lenovo\\source\\repos\\consoleapp1\\consoleapp1\\addtwonumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{865F482E-C53E-4CE5-B938-31F1C707AEDD}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\addtwonumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{865F482E-C53E-4CE5-B938-31F1C707AEDD}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\lenovo\\source\\repos\\consoleapp1\\consoleapp1\\twosum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{865F482E-C53E-4CE5-B938-31F1C707AEDD}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\twosum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{865F482E-C53E-4CE5-B938-31F1C707AEDD}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\lenovo\\source\\repos\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{865F482E-C53E-4CE5-B938-31F1C707AEDD}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddTwoNumbers.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\ConsoleApp1\\ConsoleApp1\\AddTwoNumbers.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\AddTwoNumbers.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\ConsoleApp1\\ConsoleApp1\\AddTwoNumbers.cs",
+              "RelativeToolTip": "ConsoleApp1\\AddTwoNumbers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T12:46:02.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TwoSum.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\ConsoleApp1\\ConsoleApp1\\TwoSum.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\TwoSum.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\ConsoleApp1\\ConsoleApp1\\TwoSum.cs",
+              "RelativeToolTip": "ConsoleApp1\\TwoSum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T12:28:00.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T12:27:19.063Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
