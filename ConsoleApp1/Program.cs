@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using ConsoleApp1.Solutions;
 
 namespace ConsoleApp1
 {
@@ -10,8 +11,11 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            TwoSum twoSum = new TwoSum();
-            twoSum.implementation();
+/*            TwoSum twoSum = new TwoSum();
+            twoSum.implementation();*/
+
+            Palindrome_Number pn = new Palindrome_Number();
+            pn.implementation();
         }
     }
 }

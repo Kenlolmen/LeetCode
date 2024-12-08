@@ -4,7 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApp1
+//link  https://leetcode.com/problems/two-sum/description/
+
+namespace ConsoleApp1.Solutions
 {
     public class TwoSum
     {
@@ -41,3 +43,4 @@ namespace ConsoleApp1
         }
     }
 }
+
