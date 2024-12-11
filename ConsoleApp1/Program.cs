@@ -14,8 +14,11 @@ namespace ConsoleApp1
 /*            TwoSum twoSum = new TwoSum();
             twoSum.implementation();*/
 
-            Palindrome_Number pn = new Palindrome_Number();
-            pn.implementation();
+/*            Palindrome_Number pn = new Palindrome_Number();
+            pn.implementation();*/
+
+            RomanToInteger rti = new RomanToInteger();
+            rti.implementation();
         }
     }
 }
