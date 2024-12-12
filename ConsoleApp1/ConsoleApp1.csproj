@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Solutions\LongestCommonPrefix.cs" />
     <Compile Include="Solutions\Palindrome Number.cs" />
     <Compile Include="Solutions\RomanToInteger.cs" />
     <Compile Include="Solutions\TwoSum.cs" />

@@ -11,14 +11,18 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-/*            TwoSum twoSum = new TwoSum();
-            twoSum.implementation();*/
+            /*            TwoSum twoSum = new TwoSum();
+                        twoSum.implementation();*/
 
-/*            Palindrome_Number pn = new Palindrome_Number();
-            pn.implementation();*/
+            /*            Palindrome_Number pn = new Palindrome_Number();
+                        pn.implementation();*/
 
-            RomanToInteger rti = new RomanToInteger();
-            rti.implementation();
+            /*            RomanToInteger rti = new RomanToInteger();
+                        rti.implementation();*/
+
+            var solution = new LongestCommonPrefix();
+            string[] strs = { "flower", "flow", "flight" };
+            Console.WriteLine(solution.function(strs));
         }
     }
 }
