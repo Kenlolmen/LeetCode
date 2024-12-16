@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\ConsoleApp1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{865F482E-C53E-4CE5-B938-31F1C707AEDD}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\lenovo\\source\\repos\\consoleapp1\\consoleapp1\\solutions\\validparentheses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{865F482E-C53E-4CE5-B938-31F1C707AEDD}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\solutions\\validparentheses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{865F482E-C53E-4CE5-B938-31F1C707AEDD}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\lenovo\\source\\repos\\consoleapp1\\consoleapp1\\solutions\\longestcommonprefix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{865F482E-C53E-4CE5-B938-31F1C707AEDD}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\solutions\\longestcommonprefix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,6 +27,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ValidParentheses.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Solutions\\ValidParentheses.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Solutions\\ValidParentheses.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Solutions\\ValidParentheses.cs*",
+              "RelativeToolTip": "ConsoleApp1\\Solutions\\ValidParentheses.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T21:51:34.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "LongestCommonPrefix.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Solutions\\LongestCommonPrefix.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Solutions\\LongestCommonPrefix.cs",
@@ -35,7 +52,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
@@ -43,8 +60,7 @@
               "RelativeToolTip": "ConsoleApp1\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T12:27:19.063Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-07T12:27:19.063Z"
             }
           ]
         }
