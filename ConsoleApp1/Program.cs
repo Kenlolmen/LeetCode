@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using ConsoleApp1.Solutions;
+using ConsoleApp1.Solutions.Easy;
 
 namespace ConsoleApp1
 {
@@ -20,9 +20,13 @@ namespace ConsoleApp1
             /*            RomanToInteger rti = new RomanToInteger();
                         rti.implementation();*/
 
-            var solution = new LongestCommonPrefix();
+            /*var solution = new LongestCommonPrefix();
             string[] strs = { "flower", "flow", "flight" };
-            Console.WriteLine(solution.function(strs));
+            Console.WriteLine(solution.function(strs));*/
+
+            RemoveDuplicatesFromSortedArray remove = new RemoveDuplicatesFromSortedArray();
+            remove.implementation();
+
         }
     }
 }

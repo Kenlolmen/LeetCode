@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 // link https://leetcode.com/problems/roman-to-integer/description/
 
-namespace ConsoleApp1.Solutions
+namespace ConsoleApp1.Solutions.Easy
 {
     public class RomanToInteger
     {

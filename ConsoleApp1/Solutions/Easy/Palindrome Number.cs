@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 // link https://leetcode.com/problems/palindrome-number/description/
 
-namespace ConsoleApp1.Solutions
+namespace ConsoleApp1.Solutions.Easy
 {
     public class Palindrome_Number
     {
